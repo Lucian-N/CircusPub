@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CircusPub</string>
+    <string name="adress">Bulevardul Lacul Tei 65, Bucharest</string>
+    <string name="phone">0725 180 680</string>
+    <string name="website">http://www.circuspub.ro/</string>
+    <string name="description">Pizza, burgers and cold beer to your heart\'s desire!</string>
+</resources>
